@@ -3,3 +3,5 @@
 # ENGENHARIA-DE-SOFTWARE
 
 Disciplina Engenharia de Software - Sistemas de Informação - CEFET/RJ
+
+Engenharia de software é uma área da engenharia e da computação voltada à especificação, desenvolvimento, manutenção e criação de software, com a aplicação de tecnologias e práticas de gerência de projetos e outras disciplinas, visando organização, produtividade e qualidade.
