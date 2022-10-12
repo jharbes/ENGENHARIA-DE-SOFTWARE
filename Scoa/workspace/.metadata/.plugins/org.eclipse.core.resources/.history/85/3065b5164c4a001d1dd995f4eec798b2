@@ -1,0 +1,7 @@
+package model;
+
+public class Reclamacao {
+	private int id_reclamacao;
+	private String motivo;
+	private String descricao;
+}

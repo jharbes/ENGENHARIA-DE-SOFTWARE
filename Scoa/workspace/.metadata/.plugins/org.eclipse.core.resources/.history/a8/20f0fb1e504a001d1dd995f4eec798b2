@@ -1,0 +1,13 @@
+package model;
+
+import java.util.Date;
+
+public class Sala {
+	private int id_sala;
+	private String turno;
+	private Date hora_inicio;
+	private Date hora_fim;
+	private String local_sala;
+	private String nome_curso;
+	private Disciplina disciplina;
+}

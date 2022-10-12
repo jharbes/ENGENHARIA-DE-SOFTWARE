@@ -1,0 +1,10 @@
+package model;
+
+public class Funcionario extends Pessoa {
+	private int id_funcionario;
+	private String cargo;
+	private double salario;
+	private Pessoa pessoa;
+	
+	
+}

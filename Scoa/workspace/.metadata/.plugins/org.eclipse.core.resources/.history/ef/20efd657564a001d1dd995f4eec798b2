@@ -1,0 +1,7 @@
+package model;
+
+public class Cadastro {
+	private int id_cadastro;
+	private String nome_pessoa;
+	private String nome_instituicao;
+}

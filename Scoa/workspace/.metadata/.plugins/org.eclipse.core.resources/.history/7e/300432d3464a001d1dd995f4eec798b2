@@ -1,0 +1,15 @@
+package model;
+
+public class Funcionario extends Pessoa {
+	
+	private int id_funcionario;
+	private String cargo;
+	private double salario;
+	private Pessoa pessoa;
+	
+	public Funcionario(int id_pessoa, String nome, String genero, int idade, String rg, String cpf, String telefone,
+			String email, String nome_instituicao, Endereco endereco) {
+		super(id_pessoa, nome, genero, idade, rg, cpf, telefone, email, nome_instituicao, endereco);
+		// TODO Auto-generated constructor stub
+	}
+}

@@ -1,0 +1,9 @@
+package model;
+
+public class Obra {
+	private int id_aluno;
+	private String matricula;
+	private String turno;
+	private String login;
+	private String senha;
+}

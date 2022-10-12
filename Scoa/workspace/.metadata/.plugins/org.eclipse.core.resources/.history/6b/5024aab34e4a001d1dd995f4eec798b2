@@ -1,0 +1,11 @@
+package model;
+
+import java.util.Date;
+
+public class Presenca {
+	private int id_presenca;
+	private boolean presenca;
+	private String nome_aluno;
+	private String pauta_de_aula;
+	private Date data;
+}

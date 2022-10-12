@@ -1,0 +1,7 @@
+package model;
+
+public class Analise_curricular {
+	private int id_analise;
+	private String analise;
+	private String descricao;
+}
