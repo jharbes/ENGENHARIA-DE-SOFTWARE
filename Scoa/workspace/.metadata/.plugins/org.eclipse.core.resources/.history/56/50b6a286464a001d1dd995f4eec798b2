@@ -1,9 +1,0 @@
-package model;
-
-public class Funcionario {
-	private int id_funcionario;
-	private String nome;
-	private String genero;
-	private int idade;
-	private String rg;
-}

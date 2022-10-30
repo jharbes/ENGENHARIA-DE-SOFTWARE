@@ -1,7 +1,0 @@
-package model;
-
-public class Reclamacao {
-	private int id_reclamacao;
-	private String certificado;
-	private String descricao;
-}

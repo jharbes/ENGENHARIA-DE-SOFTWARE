@@ -1,8 +1,0 @@
-package model;
-
-public class Funcionario {
-	private int id_funcionario;
-	private String cargo;
-	private double salario;
-	private Pessoa pessoa;
-}

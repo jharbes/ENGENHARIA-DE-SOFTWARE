@@ -1,9 +1,0 @@
-package model;
-
-public class Instituicao {
-	private int id_instituicao;
-	private String nome;
-	private String telefone;
-	private String email;
-	private Endereco endereco;
-}

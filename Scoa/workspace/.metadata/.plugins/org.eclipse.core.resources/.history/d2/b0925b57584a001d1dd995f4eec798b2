@@ -1,8 +1,0 @@
-package model;
-
-public class Pendencia {
-	private int id_pendencia;
-	private boolean solucionado;
-	private String nome_pessoa;
-	private Emprestimo emprestimo;
-}

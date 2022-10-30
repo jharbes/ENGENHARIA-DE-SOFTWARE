@@ -1,7 +1,0 @@
-package model;
-
-public class Aluno {
-	private int id_titulo;
-	private String certificado;
-	private String descricao;
-}

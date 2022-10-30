@@ -1,9 +1,0 @@
-package model;
-
-public class Analise_curricular {
-	private int id_analise;
-	private String analise;
-	private Date data;
-	private String nome_professor;
-	private String nome_aluno;
-}
