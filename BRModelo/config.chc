@@ -1,11 +1,11 @@
 #Config
-#Fri Oct 14 15:17:45 BRT 2022
+#Thu Nov 10 17:13:29 BRT 2022
 cfg.tipodefault=0
 cfg.apagartextoaoeditar=true
 cfg.location.salvar=true
 cfg.mostrarids=false
 cfg.ancorador=true
-cfg.recentes=C\:\\Users\\Jorge\\Desktop\\CEFET\\ENGENHARIA-DE-SOFTWARE\\modeloConceitual-DB-scoa.brM3;C\:\\Users\\Jorge\\Desktop\\CEFET\\ENGENHARIA-DE-SOFTWARE\\Scoa\\Diagramas\\modeloConceitual-DB-scoa.brM3;C\:\\Users\\mathe\\Desktop\\Modelo l\u00F3gico SCOA.brM3
+cfg.recentes=C\:\\Users\\Jorge\\Desktop\\temp-bd-scoa\\modeloConceitual-DB-scoa.brM3;C\:\\Users\\Jorge\\Desktop\\temp-bd-scoa\\Modelo l\u00F3gico SCOA.brM3;C\:\\Users\\Jorge\\Desktop\\CEFET\\ENGENHARIA-DE-SOFTWARE\\modeloConceitual-DB-scoa.brM3;C\:\\Users\\Jorge\\Desktop\\CEFET\\ENGENHARIA-DE-SOFTWARE\\Scoa\\Diagramas\\modeloConceitual-DB-scoa.brM3;C\:\\Users\\mathe\\Desktop\\Modelo l\u00F3gico SCOA.brM3
 cfg.autosalvarintervalo=5
 cfg.mostrartooltips=true
 cfg.mostrardimensoesaomover=true
